@@ -1,7 +1,13 @@
 
 # Product Management
 
-A brief description of what this project does and who it's for
+An ASP.NET Core MVC project for managing products with authentication and CRUD operations.
+
+**Project Details:**
+Framework: ASP.NET Core MVC
+Database: SQL Server
+Authentication: Identity Authentication
+Features: User authentication, CRUD operations for products, pagination, and idle timeout
 
 
 ## Badges
@@ -15,18 +21,13 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Demo
 
-link: https://youtu.be/gbW-b-8ODaM
+YouTube link: https://youtu.be/gbW-b-8ODaM
 
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-✅ User Authentication (Register/Login/Logout)
-✅ Product CRUD Operations (Create, Read, Update, Delete)
-✅ Pagination (Max 5 products per page)
-✅ Idle Timeout (User logs out after 1 minute of inactivity)
+- User Authentication (Register/Login/Logout)
+- Product CRUD Operations (Create, Read, Update, Delete)
+- Pagination (Max 5 products per page)
+- Idle Timeout (User logs out after 1 minute of inactivity)
 
