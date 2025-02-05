@@ -1,0 +1,19 @@
+﻿@model ProductManagement.Models.LoginViewModel
+
+<h2>Login</h2>
+<form asp-action="Login" method="post">
+    <label>Email</label>
+    <input asp-for="Email" class="form-control" required />
+
+    <label>Password</label>
+    <input asp-for="Password" type="password" class="form-control" required />
+
+    <label><input asp-for="RememberMe" type="checkbox" /> Remember Me</label>
+
+    <br />
+    <br />
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>
+
+
+<p>Don't have an account? <a asp-action="Register">Register here</a></p>

@@ -1,0 +1,21 @@
+﻿@model ProductManagement.Models.Product
+
+<h2>Are you sure you want to delete this product?</h2>
+
+<p>Name: @Model.Name</p>
+<p>Description: @Model.Description</p>
+<p>Price: @Model.Price</p>
+<br>
+<table>
+    <td>
+        <form asp-action="DeleteConfirmed" method="post">
+            <!-- Hidden input for product ID -->
+            <input type="hidden" asp-for="Id" />
+
+            <button type="submit" class="btn btn-danger">Delete</button>
+        </form>
+    </td>
+    <td>
+        <a href="@Url.Action("Index", "Product")" class="btn btn-secondary">Cancel</a>
+    </td>
+</table>
