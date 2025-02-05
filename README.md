@@ -19,15 +19,20 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-## Demo
-
-YouTube link: https://youtu.be/gbW-b-8ODaM
-
-
 ## Features
 
 - User Authentication (Register/Login/Logout)
 - Product CRUD Operations (Create, Read, Update, Delete)
 - Pagination (Max 5 products per page)
 - Idle Timeout (User logs out after 1 minute of inactivity)
+
+
+## Demo
+
+YouTube link: https://youtu.be/gbW-b-8ODaM
+
+
+## Screenshots
+
+![Main Interface](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
