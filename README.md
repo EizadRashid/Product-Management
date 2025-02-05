@@ -1,5 +1,5 @@
 
-# Project Title
+# Product Management
 
 A brief description of what this project does and who it's for
 
@@ -15,7 +15,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Demo
 
-Insert gif or link to demo
+link: https://youtu.be/gbW-b-8ODaM
 
 
 ## Features
@@ -24,4 +24,9 @@ Insert gif or link to demo
 - Live previews
 - Fullscreen mode
 - Cross platform
+
+✅ User Authentication (Register/Login/Logout)
+✅ Product CRUD Operations (Create, Read, Update, Delete)
+✅ Pagination (Max 5 products per page)
+✅ Idle Timeout (User logs out after 1 minute of inactivity)
 
