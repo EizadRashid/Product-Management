@@ -26,6 +26,13 @@ An ASP.NET Core MVC project for managing products with authentication and CRUD o
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-6E5494?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-68217A?style=for-the-badge&logo=visualstudio&logoColor=white)
 
+![C#](https://img.shields.io/badge/-C%23-9B4F96?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  <!-- Changed to deep purple -->
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)  <!-- Changed to blue -->
+
 
 
 
