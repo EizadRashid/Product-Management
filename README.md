@@ -4,10 +4,10 @@
 An ASP.NET Core MVC project for managing products with authentication and CRUD operations.
 
 **Project Details:**
-Framework: ASP.NET Core MVC
-Database: SQL Server
-Authentication: Identity Authentication
-Features: User authentication, CRUD operations for products, pagination, and idle timeout
+- Framework: ASP.NET Core MVC
+- Database: SQL Server
+- Authentication: Identity Authentication
+- Features: User authentication, CRUD operations for products, pagination, and idle timeout
 
 
 ## Badges
