@@ -34,5 +34,6 @@ YouTube link: https://youtu.be/gbW-b-8ODaM
 
 ## Screenshots
 
-![Main Interface](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2025-02-05 135144](https://github.com/user-attachments/assets/85042e62-b347-4394-9c2c-14e7688d9d9f)
+
 
